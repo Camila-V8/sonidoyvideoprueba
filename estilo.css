@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url(fondo.jpg);
+}
+
+
+header {
+	font-family: 'Rubik Bubbles', cursive;
+	font-size: 25px;
+	color: #A6C7DA;
+	background-color: #2777BF;
+	height: 80px;
+	padding-top: 25px;
+	padding-left: 400px;
+}
+
+.barra {
+	background-color: #1F035E;
+	height: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-left: 600px;
+}
+
+.video {
+	padding-top: 43px;
+	padding-left: 80px;
+}
+
+p {
+	font-family: 'Rubik Bubbles', cursive;
+	color: #1F035E;
+	padding-top: 20px;
+	padding-left: 650px;
+	font-size: 20px;
+	text-shadow: 5px 5px 5px #FFFB8F;
+}
+
+#sonido {
+	padding-left: 900px;
+	margin-top: -400px;
+}
